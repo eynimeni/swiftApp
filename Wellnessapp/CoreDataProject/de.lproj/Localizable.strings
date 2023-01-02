@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  CoreDataProject
+
+  Created by Magdalena on 29.12.22.
+  
+
+*/
+
+"Welcome" = "Willkommen!\n";
+"Get Image" = "Bild auswählen";
+"Your Oasis" = "Deine Oase";
+"Desired Location" = "Wunschort";
+"Text Message" = "Eine Reise ist wunderschön!\nAuch in der Fantasie! Also stell sie dir vor :-)\n";
+"Your Destination" = "Du reist heute nach....";
+"Relax! When ever you feel ready, click again." = "Entspanne dich! Wenn du dich bereit fühlst, klicke einfach noch einmal.";
+"Take a deep breath" = "Einmal tief durchatmen!";
+"Are you now ready to go on your personal jourey?" = "Bist du nun bereit, deine persönliche Reise anzutreten?";
+"Yes" = "Ja";
+"No" = "Nein";
+

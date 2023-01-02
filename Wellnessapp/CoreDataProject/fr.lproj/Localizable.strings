@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CoreDataProject
+
+  Created by Magdalena on 29.12.22.
+  
+*/
+
+"Welcome" = "Bienvenue";
+"Store Data" = "Enregistrer";
+"Display Data" = "Afficher";
+"Firstname" = "Prenom";
+"Lastname" = "Nom";
+"Phone" = "Telephone";
+"Favorite Color" = "Couleur preferée";
+"Age" = "Age";
+"Design Profile" = "De";
